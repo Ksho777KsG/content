@@ -1,4 +1,4 @@
----
+-M--
 title: name
 slug: Web/Manifest/name
 page-type: web-manifest-member
